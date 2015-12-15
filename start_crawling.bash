@@ -1,0 +1,1 @@
+scrapy crawl webgraph -o items.csv -t csv -s JOBDIR=crawls/webgraph_persist
